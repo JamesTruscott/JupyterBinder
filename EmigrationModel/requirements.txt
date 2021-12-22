@@ -1,0 +1,5 @@
+numpy==1.20.2+mkl
+pandas==1.2.4
+scipy==1.6.2
+matplotlib==3.4.1
+watermark==2.2.0
