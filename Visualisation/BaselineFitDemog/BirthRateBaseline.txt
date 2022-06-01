@@ -1,0 +1,14 @@
+# Birth rates in 2011. 
+Ethnicity	EthnicityIndex	Sex	Value
+White	0	0	262268.9049
+White	0	1	249570.2674
+Bangladesh	1	0	4878.78212
+Bangladesh	1	1	4643.929185
+Sub_Saharan_Africa	2	0	10536.26854
+Sub_Saharan_Africa	2	1	10020.4549
+China	3	0	1897.299448
+China	3	1	1838.227581
+India	4	0	9374.166791
+India	4	1	8931.278409
+Pakistan	5	0	12317.06902
+Pakistan	5	1	11738.17362
